@@ -65,18 +65,3 @@ for stack_id, stack in stacks.items():
 
 print(f"Stacks: {stacks}")
 print(f"Result: {result}")
-# i = 0
-# lines = input_file.readlines()
-# line = lines[i]
-
-# while line.strip() != "":
-#     stack_1_item = line[1]
-#     stack_2_item = line[5]
-#     stack_3_item = line[9]
-
-#     print(f"{stack_1_item}, {stack_2_item}, {stack_3_item}")
-#     i = i + 1
-#     line = lines[i]
-
-# i = i + 2
-# while line
