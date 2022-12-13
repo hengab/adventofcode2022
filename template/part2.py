@@ -1,5 +1,6 @@
 input_file_name = "sample_input.txt"
 # input_file_name = "input.txt"
+print("--------Part 2--------")
 
 import typing as typ
 
